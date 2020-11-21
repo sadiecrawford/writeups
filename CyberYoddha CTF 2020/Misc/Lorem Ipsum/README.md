@@ -12,7 +12,7 @@ Lorem ipsum dolorc sit amet, consectetury adipiscing celit, sed dot eiusmod temp
 
 Hmm, there are some differences between this Lorem Ipsum and the original.
 
-Two files were created: an original containing ["The standard Lorem Ipsum passage"](https://www.lipsum.com and a changed containing the Challenge's contents.
+Two files were created: an original containing ["The standard Lorem Ipsum passage"](https://www.lipsum.com) and a changed containing the Challenge's contents.
 
 Let's take a `git diff` as its --word-diff by color will be more comprehensive than `diff`, which will only show line-by-line.
 
